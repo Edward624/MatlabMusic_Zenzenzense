@@ -1,2 +1,2 @@
 # MatlabMusic_Zenzenzense
-练习作，用Matlab演奏《前前前世》
+Matlab音乐，个人练习作，演奏乐曲为《前前前世》
